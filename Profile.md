@@ -27,7 +27,7 @@
                   
                     but if i want profit i will set it 0.9 tho
                     (as if you sell 0.XXXXXXXX amount of some Crypto to fiat then use it but this will run in back door)
-                      and i think i will reccommand user to use TRUST wallet -But Now Not Sure i can This project -running 0/100
+                      and i think i will reccommand user to use TRUST wallet -But Now Not Sure i can This project i cose 2k$ or 60,000 thb at least hahaha -running 0/100
                         "trouble is  idk how to run the process of buying at cafe using QR code method that will not troubling the user.....
                         i have no knowledge at back door process so if u have some advice"
                
